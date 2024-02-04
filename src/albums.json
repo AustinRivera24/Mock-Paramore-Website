@@ -1,0 +1,496 @@
+{
+    "paramore-albums": [
+        {
+            "id": 1,
+            "artist": "Paramore",
+            "album": "All We Know Is Falling",
+            "year": 2005,
+            "genre": "Alternative rock",
+            "label": "Fueled by Ramen",
+            "image": "",
+            "tracks": [
+                {
+                    "title": "All We Know",
+                    "duration": "3:13",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Pressure",
+                    "duration": "3:05",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Emergency",
+                    "duration": "4:00",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Brighter",
+                    "duration": "3:43",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Here We Go Again",
+                    "duration": "3:46",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Never Let This Go",
+                    "duration": "3:40",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Whoa",
+                    "duration": "3:21",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Conspiracy",
+                    "duration": "3:42",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Franklin",
+                    "duration": "4:17",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "My Heart",
+                    "duration": "3:59",
+                    "single": false,
+                    "audio": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "artist": "Paramore",
+            "album": "Riot!",
+            "year": 2007,
+            "genre": "Alternative rock, pop punk, emo",
+            "label": "Fueled by Ramen",
+            "image": "",
+            "tracks": [
+                {
+                    "title": "For a Pessimist, I'm Pretty Optimistic",
+                    "duration": "3:48",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "That's What You Get",
+                    "duration": "3:40",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Hallelujah",
+                    "duration": "3:23",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Misery Business",
+                    "duration": "3:31",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "When It Rains",
+                    "duration": "3:35",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Let the Flames Begin",
+                    "duration": "3:18",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Miracle",
+                    "duration": "3:29",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Crushcrushcrush",
+                    "duration": "3:09",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "We Are Broken",
+                    "duration": "3:38",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Fences",
+                    "duration": "3:19",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Born for This",
+                    "duration": "3:58",
+                    "single": false,
+                    "audio": ""
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "artist": "Paramore",
+            "album": "Brand New Eyes",
+            "year": 2009,
+            "genre": "Alternative rock, pop punk, emo",
+            "label": "Fueled by Ramen",
+            "image": "",
+            "tracks": [
+                {
+                    "title": "Careful",
+                    "duration": "3:50",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Ignorance",
+                    "duration": "3:38",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Playing God",
+                    "duration": "3:02",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Brick By Boring Brick",
+                    "duration": "4:13",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Turn It Off",
+                    "duration": "4:19",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "The Only Exception",
+                    "duration": "4:27",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Feeling Sorry",
+                    "duration": "3:05",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Looking Up",
+                    "duration": "3:29",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Where the Lines Overlap",
+                    "duration": "3:18",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Misguided Ghosts",
+                    "duration": "3:01",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "All I Wanted",
+                    "duration": "3:48",
+                    "single": false,
+                    "audio": ""
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "artist": "Paramore",
+            "album": "Paramore",
+            "year": 2013,
+            "genre": "Alternative rock, new wave, synth-pop",
+            "label": "Fueled by Ramen",
+            "image": "",
+            "tracks": [
+                {
+                    "title": "Fast in My Car",
+                    "duration": "3:42",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Now",
+                    "duration": "4:07",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Grow Up",
+                    "duration": "3:50",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Daydreaming",
+                    "duration": "4:31",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Interlude: Moving On",
+                    "duration": "1:30",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Ain't It Fun",
+                    "duration": "4:56",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Part II",
+                    "duration": "4:41",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Last Hope",
+                    "duration": "5:10",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Still Into You",
+                    "duration": "3:36",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Anklebiters",
+                    "duration": "2:17",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Interlude: Holiday",
+                    "duration": "1:10",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Proof",
+                    "duration": "3:15",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Hate to See Your Heart Break",
+                    "duration": "5:09",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "(One of Those) Crazy Girls",
+                    "duration": "3:33",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Interlude: I'm Not Angry Anymore",
+                    "duration": "0:52",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Be Alone",
+                    "duration": "3:40",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Future",
+                    "duration": "7:52",
+                    "single": false,
+                    "audio": ""
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "artist": "Paramore",
+            "album": "After Laughter",
+            "year": 2017,
+            "genre": "New wave, synth-pop",
+            "label": "Fueled by Ramen",
+            "image": "",
+            "tracks": [
+                {
+                    "title": "Hard Times",
+                    "duration": "3:02",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Rose-Colored Boy",
+                    "duration": "3:33",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Told You So",
+                    "duration": "3:08",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Forgiveness",
+                    "duration": "3:39",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Fake Happy",
+                    "duration": "3:55",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "26",
+                    "duration": "3:41",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Pool",
+                    "duration": "3:52",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Grudges",
+                    "duration": "3:07",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Caught in the Middle",
+                    "duration": "3:34",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Idle Worship",
+                    "duration": "3:18",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "No Friend",
+                    "duration": "3:24",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Tell Me How",
+                    "duration": "4:20",
+                    "single": false,
+                    "audio": ""
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "artist": "Paramore",
+            "album": "This Is Why",
+            "year": 2023,
+            "genre": "Post-punk, alternative, new wave",
+            "label": "Atlantic",
+            "image": "",
+            "tracks": [
+                {
+                    "title": "This Is Why",
+                    "duration": "3:26",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "The News",
+                    "duration": "3:08",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Running Out Of Time",
+                    "duration": "3:13",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "C'est Comme Ça",
+                    "duration": "2:30",
+                    "single": true,
+                    "audio": ""
+                },
+                {
+                    "title": "Big Man, Little Dignity",
+                    "duration": "4:21",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "You First",
+                    "duration": "4:06",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Figure 8",
+                    "duration": "3:25",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Liar",
+                    "duration": "4:22",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Crave",
+                    "duration": "3:56",
+                    "single": false,
+                    "audio": ""
+                },
+                {
+                    "title": "Thick Skull",
+                    "duration": "3:53",
+                    "single": false,
+                    "audio": ""
+                }
+            ]
+        }
+    ]
+}
