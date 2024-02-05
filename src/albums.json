@@ -7,7 +7,7 @@
             "year": 2005,
             "genre": "Alternative rock",
             "label": "Fueled by Ramen",
-            "image": "",
+            "image": "../Album-Images/All_We_Know_Is_Falling.png",
             "tracks": [
                 {
                     "title": "All We Know",
@@ -78,7 +78,7 @@
             "year": 2007,
             "genre": "Alternative rock, pop punk, emo",
             "label": "Fueled by Ramen",
-            "image": "",
+            "image": "../Album-Images/Riot!.png",
             "tracks": [
                 {
                     "title": "For a Pessimist, I'm Pretty Optimistic",
@@ -155,7 +155,7 @@
             "year": 2009,
             "genre": "Alternative rock, pop punk, emo",
             "label": "Fueled by Ramen",
-            "image": "",
+            "image": "../Album-Images/Brand_New_Eyes.png",
             "tracks": [
                 {
                     "title": "Careful",
@@ -232,7 +232,7 @@
             "year": 2013,
             "genre": "Alternative rock, new wave, synth-pop",
             "label": "Fueled by Ramen",
-            "image": "",
+            "image": "../Album-Images/Self_Titled",
             "tracks": [
                 {
                     "title": "Fast in My Car",
@@ -345,7 +345,7 @@
             "year": 2017,
             "genre": "New wave, synth-pop",
             "label": "Fueled by Ramen",
-            "image": "",
+            "image": "../Album-Images/After_Laughter.png",
             "tracks": [
                 {
                     "title": "Hard Times",
@@ -428,7 +428,7 @@
             "year": 2023,
             "genre": "Post-punk, alternative, new wave",
             "label": "Atlantic",
-            "image": "",
+            "image": "../Album-Images/This_Is_Why.png",
             "tracks": [
                 {
                     "title": "This Is Why",
