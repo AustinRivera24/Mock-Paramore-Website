@@ -13,13 +13,13 @@
                     "title": "All We Know",
                     "duration": "3:13",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2005 - All We Know Is Falling/01. - All We Know.mp3"
                 },
                 {
                     "title": "Pressure",
                     "duration": "3:05",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2005 - All We Know Is Falling/02. - Pressure.mp3"
                 },
                 {
                     "title": "Emergency",
@@ -232,7 +232,7 @@
             "year": 2013,
             "genre": "Alternative rock, new wave, synth-pop",
             "label": "Fueled by Ramen",
-            "image": "../Album-Images/Self_Titled",
+            "image": "../Album-Images/Self_Titled.png",
             "tracks": [
                 {
                     "title": "Fast in My Car",
