@@ -2,14 +2,14 @@
 import './App.css'; //allows the css to apply in this component
 import Navbar from './Navbar';
 import VideoBackground from './VideoBackground';
+import ImageOverlay from './ImageOverlay';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Navbar/>
-        <VideoBackground/>
-      </header>
+      <Navbar />  
+      <VideoBackground />
+      <ImageOverlay/>
     </div>
   );
 }

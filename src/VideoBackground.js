@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import './App.css';
+import './App.css'; //pulls in css
 
 function VideoBackground() {
     const videoRef = useRef(null);
@@ -17,7 +17,6 @@ function VideoBackground() {
     <div className="video-background">
       <video ref={videoRef} className="video" loop muted>
         <source src="Hard-times-video-background.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
       </video>
     </div>
   );
