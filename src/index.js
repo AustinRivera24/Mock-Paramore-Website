@@ -1,14 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-// import App from './App'; //recieves the information from the App component
+//import App from './App'; //recieves the information from the App component
 import MusicAndVideos from './Music-Videos';
 import reportWebVitals from './reportWebVitals'; //a part of the create-react-app install for vitals; works fine but complies with a warning, annoying to comment out
+import Store from './Store';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root')); //appending(rendering everything to the div with the id of root in html)| we call root
 root.render( //calls for the root variable to render
   <React.StrictMode>
-    <MusicAndVideos />
+    <MusicAndVideos/>
   </React.StrictMode>
 );
 
