@@ -1,11 +1,10 @@
 body {
     width: 100vw;
-    height: 700vh;
   }
   
 
 body {
-  background: linear-gradient(#c84359, #f8e354);
+  background: linear-gradient(#c84359,10%, #f8e354);
 }
 
 h1 {

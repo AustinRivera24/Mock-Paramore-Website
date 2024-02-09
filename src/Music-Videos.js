@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react"; //imports the use tools
 import "./Music-Videos.css";
+import Navbar from "./Navbar";
 
 function MusicAndVideos() {
   const [albums, setAlbums] = useState([]); //sets up my usestate
@@ -24,6 +25,8 @@ function MusicAndVideos() {
   return (
     <>
       {albums.length > 0 ? (
+      <>
+      <Navbar customStyle="top" />
         <div id="container">
           <h1>Albums</h1>
           {albums.map((album) => (
@@ -56,6 +59,7 @@ function MusicAndVideos() {
             </div>
           ))}
         </div>
+        </>
       ) : (
         <p>Nothing here to see at the moment</p>
       )}

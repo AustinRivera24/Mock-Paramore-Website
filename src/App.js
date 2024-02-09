@@ -1,17 +1,16 @@
 // import logo from './logo.svg';
-import './App.css'; //allows the css to apply in this component
-import Navbar from './Navbar';
-import VideoBackground from './VideoBackground';
-import ImageOverlay from './ImageOverlay';
+// import './App.css'; //allows the css to apply in this component
+// import Navbar from './Navbar';
+// import VideoBackground from './VideoBackground';
+// import ImageOverlay from './ImageOverlay';
+import { Outlet } from "react-router-dom";
 // import MusicAndVideos from './Music+Videos';
 // import {BroswerRouter as Router, Route, Switch} from 'react-router-dom'
 
 function App() {
   return (
     <div className="App">
-      <Navbar />  
-      <VideoBackground />
-      <ImageOverlay/>
+      <Outlet />
     </div>
   );
 }

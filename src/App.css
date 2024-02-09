@@ -20,7 +20,7 @@ video {
   opacity: 0.5; /* Adjust the opacity of the image overlay as needed */
 }
 
-nav {
+nav.bottom {
   position: fixed;
   top: 80%;
   left: 0;
@@ -29,6 +29,8 @@ nav {
   color: white;
 
 }
+
+
 
 ul {
   text-align: center;
