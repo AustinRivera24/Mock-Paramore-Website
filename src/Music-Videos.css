@@ -1,10 +1,10 @@
-body {
+/* body {
     width: 100vw;
   }
   
 
 body {
-  background: linear-gradient(#c84359,10%, #f8e354);
+  background: linear-gradient(#c84359, #f8e354);
 }
 
 h1 {
@@ -51,4 +51,4 @@ h3 {
 #track-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-}
+} */

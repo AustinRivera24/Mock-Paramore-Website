@@ -27,33 +27,33 @@ function MusicAndVideos() {
       {albums.length > 0 ? (
       <>
       <Navbar customStyle="top" />
-        <div id="container">
-          <h1>Albums</h1>
+        <div style={{ width: '100vw', background: 'linear-gradient(#c84359, #f8e354)' }}>
+          <h1 style={{ textAlign: 'center', textDecoration: 'underline' }}>Albums</h1>
           {albums.map((album) => (
             <div id={album.album} key={album.id}>
-              <h2>
+              <h2 style={{ textAlign: 'center' }}>
                 {album.album} ({album.year})
               </h2>
               
-              <p id="genre">Genre: {album.genre}</p>
-              <p id="label">Label: {album.label}</p>
+              <p style={{ fontSize: '1.25em', textAlign: 'center' }}>Genre: {album.genre}</p>
+              <p style={{ fontSize: '1.5em', textAlign: 'center' }}>Label: {album.label}</p>
               <img
-                class="album-cover"
+                className="album-cover"
                 width="300px"
                 height="300px"
                 src={album.image}
                 alt={album.album}
+                style={{ display: 'block', marginLeft: 'auto', marginRight: 'auto' }}
               />
-              <h3>Tracks:</h3>
-               <div id="track-container">
+              <h3 style={{ textAlign: 'center' }}>Tracks:</h3>
+               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)' }}>
 
               {album.tracks.map((track, index) => (
-                <p class="track-name" key={index}>
+                <p className="track-name" key={index} style={{ fontSize: '1.2em', textAlign: 'center' }}>
                   {track.title}
                   <div></div>
                   <audio controls src={track.audio}></audio>
                 </p>
-                
               ))}
               </div>
             </div>
