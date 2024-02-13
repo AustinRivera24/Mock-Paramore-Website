@@ -1,12 +1,5 @@
 /* body {
-    width: 100vw;
-    height: 100vh;
-  }
-  
-for music page
-
-body {
-  background: linear-gradient(#c84359, #f8e354);
+  background: black;
 } */
 
 video {
@@ -29,7 +22,7 @@ video {
   opacity: 0.5; /* Adjust the opacity of the image overlay as needed */
 }
 
-nav {
+nav.bottom {
   position: fixed;
   top: 80%;
   left: 0;
@@ -38,6 +31,8 @@ nav {
   color: white;
 
 }
+
+
 
 ul {
   text-align: center;

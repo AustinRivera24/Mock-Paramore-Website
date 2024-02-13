@@ -5,7 +5,7 @@
             "artist": "Paramore",
             "album": "All We Know Is Falling",
             "year": 2005,
-            "genre": "Alternative rock",
+            "genre": "Alternative Rock",
             "label": "Fueled by Ramen",
             "image": "../Album-Images/All_We_Know_Is_Falling.png",
             "tracks": [
@@ -13,61 +13,61 @@
                     "title": "All We Know",
                     "duration": "3:13",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2005 - All We Know Is Falling/01. - All We Know.mp3"
                 },
                 {
                     "title": "Pressure",
                     "duration": "3:05",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2005 - All We Know Is Falling/02. - Pressure.mp3"
                 },
                 {
                     "title": "Emergency",
                     "duration": "4:00",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2005 - All We Know Is Falling/03. - Emergency.mp3"
                 },
                 {
                     "title": "Brighter",
                     "duration": "3:43",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2005 - All We Know Is Falling/04. - Brighter.mp3"
                 },
                 {
                     "title": "Here We Go Again",
                     "duration": "3:46",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2005 - All We Know Is Falling/05. - Here We Go Again.mp3"
                 },
                 {
                     "title": "Never Let This Go",
                     "duration": "3:40",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2005 - All We Know Is Falling/06. - Never Let This Go.mp3"
                 },
                 {
                     "title": "Whoa",
                     "duration": "3:21",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2005 - All We Know Is Falling/07. - Whoa.mp3"
                 },
                 {
                     "title": "Conspiracy",
                     "duration": "3:42",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2005 - All We Know Is Falling/08. - Conspiracy.mp3"
                 },
                 {
                     "title": "Franklin",
                     "duration": "4:17",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2005 - All We Know Is Falling/09. - Franklin.mp3 "
                 },
                 {
                     "title": "My Heart",
                     "duration": "3:59",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2005 - All We Know Is Falling/10. - My Heart.mp3"
                 }
             ]
         },
@@ -76,7 +76,7 @@
             "artist": "Paramore",
             "album": "Riot!",
             "year": 2007,
-            "genre": "Alternative rock, pop punk, emo",
+            "genre": "Alternative Rock, Pop Punk, Emo",
             "label": "Fueled by Ramen",
             "image": "../Album-Images/Riot!.png",
             "tracks": [
@@ -84,67 +84,67 @@
                     "title": "For a Pessimist, I'm Pretty Optimistic",
                     "duration": "3:48",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2007 - Riot!/01. - For A Pessimist_ I'm Pretty Optimistic.mp3"
                 },
                 {
                     "title": "That's What You Get",
                     "duration": "3:40",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2007 - Riot!/02. - That's What You Get.mp3"
                 },
                 {
                     "title": "Hallelujah",
                     "duration": "3:23",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2007 - Riot!/03. - Hallelujah.mp3"
                 },
                 {
                     "title": "Misery Business",
                     "duration": "3:31",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2007 - Riot!/04. - Misery Business.mp3"
                 },
                 {
                     "title": "When It Rains",
                     "duration": "3:35",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2007 - Riot!/05. - When It Rains.mp3"
                 },
                 {
-                    "title": "Let the Flames Begin",
+                    "title": "Let The Flames Begin",
                     "duration": "3:18",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2007 - Riot!/06. - Let The Flames Begin.mp3"
                 },
                 {
                     "title": "Miracle",
                     "duration": "3:29",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2007 - Riot!/07. - Miracle.mp3"
                 },
                 {
                     "title": "Crushcrushcrush",
                     "duration": "3:09",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2007 - Riot!/08. - Crushcrushcrush.mp3"
                 },
                 {
                     "title": "We Are Broken",
                     "duration": "3:38",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2007 - Riot!/09. - We Are Broken.mp3"
                 },
                 {
                     "title": "Fences",
                     "duration": "3:19",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2007 - Riot!/10. - Fences.mp3"
                 },
                 {
-                    "title": "Born for This",
+                    "title": "Born For This",
                     "duration": "3:58",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2007 - Riot!/11. - Born For This.mp3"
                 }
             ]
         },
@@ -153,7 +153,7 @@
             "artist": "Paramore",
             "album": "Brand New Eyes",
             "year": 2009,
-            "genre": "Alternative rock, pop punk, emo",
+            "genre": "Alternative Rock, Pop Punk, Emo",
             "label": "Fueled by Ramen",
             "image": "../Album-Images/Brand_New_Eyes.png",
             "tracks": [
@@ -161,180 +161,180 @@
                     "title": "Careful",
                     "duration": "3:50",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2009 - Behind New Eyes/01. - Careful.mp3"
                 },
                 {
                     "title": "Ignorance",
                     "duration": "3:38",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2009 - Behind New Eyes/02. - Ignorance.mp3"
                 },
                 {
                     "title": "Playing God",
                     "duration": "3:02",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2009 - Behind New Eyes/03. - Playing God.mp3"
                 },
                 {
                     "title": "Brick By Boring Brick",
                     "duration": "4:13",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2009 - Behind New Eyes/04. - Brick By Boring Brick.mp3"
                 },
                 {
                     "title": "Turn It Off",
                     "duration": "4:19",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2009 - Behind New Eyes/05. - Turn It Off.mp3"
                 },
                 {
                     "title": "The Only Exception",
                     "duration": "4:27",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2009 - Behind New Eyes/06. - The Only Exception.mp3"
                 },
                 {
                     "title": "Feeling Sorry",
                     "duration": "3:05",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2009 - Behind New Eyes/07. - Feeling Sorry.mp3"
                 },
                 {
                     "title": "Looking Up",
                     "duration": "3:29",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2009 - Behind New Eyes/08. - Looking Up.mp3"
                 },
                 {
                     "title": "Where the Lines Overlap",
                     "duration": "3:18",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2009 - Behind New Eyes/09. - Where The Lines Overlap.mp3"
                 },
                 {
                     "title": "Misguided Ghosts",
                     "duration": "3:01",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2009 - Behind New Eyes/10. - Misguided Ghosts.mp3"
                 },
                 {
                     "title": "All I Wanted",
                     "duration": "3:48",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2009 - Behind New Eyes/11. - All I Wanted.mp3"
                 }
             ]
         },
         {
             "id": 4,
             "artist": "Paramore",
-            "album": "Paramore",
+            "album": "Paramore [Self-Titled]",
             "year": 2013,
-            "genre": "Alternative rock, new wave, synth-pop",
-            "label": "Fueled by Ramen",
-            "image": "../Album-Images/Self_Titled",
+            "genre": "Alternative Rock, New Wave, Synth-Pop",
+            "label": "Fueled by Ramen, Atlantic",
+            "image": "../Album-Images/Self_Titled.png",
             "tracks": [
                 {
                     "title": "Fast in My Car",
                     "duration": "3:42",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/01. - Fast In My Car.mp3"
                 },
                 {
                     "title": "Now",
                     "duration": "4:07",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/02. - Now.mp3"
                 },
                 {
                     "title": "Grow Up",
                     "duration": "3:50",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/03. - Grow Up.mp3"
                 },
                 {
                     "title": "Daydreaming",
                     "duration": "4:31",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/04. - Daydreaming.mp3"
                 },
                 {
                     "title": "Interlude: Moving On",
                     "duration": "1:30",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/05. - Interlude Moving On.mp3"
                 },
                 {
                     "title": "Ain't It Fun",
                     "duration": "4:56",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/06. - Ain't It Fun.mp3"
                 },
                 {
                     "title": "Part II",
                     "duration": "4:41",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/07. - Part II.mp3"
                 },
                 {
                     "title": "Last Hope",
                     "duration": "5:10",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/08. - Last Hope.mp3"
                 },
                 {
                     "title": "Still Into You",
                     "duration": "3:36",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/09. - Still Into You.mp3"
                 },
                 {
                     "title": "Anklebiters",
                     "duration": "2:17",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/10. - Anklebiters.mp3"
                 },
                 {
                     "title": "Interlude: Holiday",
                     "duration": "1:10",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/11. - Interlude Holiday.mp3"
                 },
                 {
                     "title": "Proof",
                     "duration": "3:15",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/12. - Proof.mp3"
                 },
                 {
-                    "title": "Hate to See Your Heart Break",
+                    "title": "Hate To See Your Heart Break",
                     "duration": "5:09",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/13. - Hate To See Your Heart Break.mp3"
                 },
                 {
-                    "title": "(One of Those) Crazy Girls",
+                    "title": "(One Of Those) Crazy Girls",
                     "duration": "3:33",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/14. - (One Of Those) Crazy Girls.mp3"
                 },
                 {
                     "title": "Interlude: I'm Not Angry Anymore",
                     "duration": "0:52",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/15. - Interlude I'm Not Angry Anymore.mp3"
                 },
                 {
                     "title": "Be Alone",
                     "duration": "3:40",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/16. - Be Alone.mp3"
                 },
                 {
                     "title": "Future",
                     "duration": "7:52",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2013 - Paramore/17. - Future.mp3"
                 }
             ]
         },
@@ -343,81 +343,81 @@
             "artist": "Paramore",
             "album": "After Laughter",
             "year": 2017,
-            "genre": "New wave, synth-pop",
-            "label": "Fueled by Ramen",
+            "genre": "New Wave, Synth-Pop",
+            "label": "Fueled by Ramen, Atlantic",
             "image": "../Album-Images/After_Laughter.png",
             "tracks": [
                 {
                     "title": "Hard Times",
                     "duration": "3:02",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2017 - After Laughter/01. - Hard Times.mp3"
                 },
                 {
                     "title": "Rose-Colored Boy",
                     "duration": "3:33",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2017 - After Laughter/02. - Rose-Colored Boy.mp3"
                 },
                 {
                     "title": "Told You So",
                     "duration": "3:08",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2017 - After Laughter/03. - Told You So.mp3"
                 },
                 {
                     "title": "Forgiveness",
                     "duration": "3:39",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2017 - After Laughter/04. - Forgiveness.mp3"
                 },
                 {
                     "title": "Fake Happy",
                     "duration": "3:55",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2017 - After Laughter/05. - Fake Happy.mp3"
                 },
                 {
                     "title": "26",
                     "duration": "3:41",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2017 - After Laughter/06. - 26.mp3"
                 },
                 {
                     "title": "Pool",
                     "duration": "3:52",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2017 - After Laughter/07. - Pool.mp3"
                 },
                 {
                     "title": "Grudges",
                     "duration": "3:07",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2017 - After Laughter/08. - Grudges.mp3"
                 },
                 {
-                    "title": "Caught in the Middle",
+                    "title": "Caught In The Middle",
                     "duration": "3:34",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2017 - After Laughter/09. - Caught In The Middle.mp3"
                 },
                 {
                     "title": "Idle Worship",
                     "duration": "3:18",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2017 - After Laughter/10. - Idle Worship.mp3"
                 },
                 {
                     "title": "No Friend",
                     "duration": "3:24",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2017 - After Laughter/11. - No Friend.mp3"
                 },
                 {
                     "title": "Tell Me How",
                     "duration": "4:20",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2017 - After Laughter/12. - Tell Me How.mp3"
                 }
             ]
         },
@@ -426,7 +426,7 @@
             "artist": "Paramore",
             "album": "This Is Why",
             "year": 2023,
-            "genre": "Post-punk, alternative, new wave",
+            "genre": "Post-Punk, Alternative, New Wave",
             "label": "Atlantic",
             "image": "../Album-Images/This_Is_Why.png",
             "tracks": [
@@ -434,61 +434,61 @@
                     "title": "This Is Why",
                     "duration": "3:26",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2023 - This Is Why/01. - This Is Why.mp3"
                 },
                 {
                     "title": "The News",
                     "duration": "3:08",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2023 - This Is Why/02. - The News.mp3"
                 },
                 {
                     "title": "Running Out Of Time",
                     "duration": "3:13",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2023 - This Is Why/03. - Running Out Of Time.mp3"
                 },
                 {
                     "title": "C'est Comme Ça",
                     "duration": "2:30",
                     "single": true,
-                    "audio": ""
+                    "audio": "../Paramore/2023 - This Is Why/04. - C'est Comme Ça.mp3"
                 },
                 {
                     "title": "Big Man, Little Dignity",
                     "duration": "4:21",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2023 - This Is Why/05. - Big Man_ Little Diginity.mp3"
                 },
                 {
                     "title": "You First",
                     "duration": "4:06",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2023 - This Is Why/06. - You First.mp3"
                 },
                 {
                     "title": "Figure 8",
                     "duration": "3:25",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2023 - This Is Why/07. - Figure 8.mp3"
                 },
                 {
                     "title": "Liar",
                     "duration": "4:22",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2023 - This Is Why/08. - Liar.mp3"
                 },
                 {
                     "title": "Crave",
                     "duration": "3:56",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2023 - This Is Why/09. - Crave.mp3"
                 },
                 {
                     "title": "Thick Skull",
                     "duration": "3:53",
                     "single": false,
-                    "audio": ""
+                    "audio": "../Paramore/2023 - This Is Why/10. - Thick Skull.mp3"
                 }
             ]
         }
