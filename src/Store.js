@@ -1,6 +1,6 @@
 //import { useState } from "react";
 import Navbar from "./Navbar";
-import "./Store.css";
+
 
 function Store() {
   const merchItems = [
@@ -38,35 +38,40 @@ function Store() {
 
   return (
     <>
-      <Navbar />
-      <div
-        className="merch-store"
-        style={{
-          background: "linear-gradient(black, white)",
-        }}
-      >
-        <div
-          className="merch-grid"
+      <div style={{
+        background: "linear-gradient(black, white)",
+      }}>
+        <Navbar />
+        <div className="merch-store"
           style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(3, 1fr)",
-            gap: "20px",
-            // padding: "20px",
-            margin: "0 auto",
+            marginTop: "50px",
+            marginLeft: "200PX"
           }}
         >
-          {merchItems.map((item) => (
-            <div key={item.id} className="merch-item">
-              <img
-                style={{ height: "250px",
-                 width: "250px",
-                 }}
-                src={item.imageUrl}
-                alt={item.name}
-              />
-              <h3>{item.name}</h3>
-            </div>
-          ))}
+          <div
+            className="merch-grid"
+            style={{
+              display: "grid",
+              gridTemplateColumns: "repeat(3, 2fr)",
+              gap: "20px",
+              padding: "20px",
+              margin: "0 auto",
+            }}
+          >
+            {merchItems.map((item) => (
+              <div key={item.id} className="merch-item">
+                <img
+                  style={{
+                    height: "250px",
+                    width: "250px",
+                  }}
+                  src={item.imageUrl}
+                  alt={item.name}
+                />
+                <h3>{item.name}</h3>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </>

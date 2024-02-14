@@ -3,7 +3,7 @@ import VideoBackground from "./VideoBackground";
 import ImageOverlay from "./ImageOverlay";
 import "./App.css";
 
-function Altogether({}) {
+function Altogether() {
   return (
     <div>
       <Navbar customStyle="bottom" />
