@@ -47,6 +47,7 @@ function FanPage() {
   };
 
   const postCommentToServer = (comment) => {
+    console.log(comment)
     // Assuming you have an endpoint to post comments
     fetch('http://localhost:3002/comments', {
       method: 'POST',
@@ -67,24 +68,25 @@ function FanPage() {
 
 
   return (
-    <div>
-      <h1>Comments</h1>
-      {/* <div>
+    <div style={{background:"linear-gradient(#98FB98, teal)", height:"100vh", width:"100%"}}>
+      <Navbar/>
+      <h1 style={{textAlign:"center"}}>Comments</h1>
+      <div>
         {comments.map((comment) => (
-          <div key={comment.id}>
+          <div className="comment-box" style={{textAlign:"center", border:"2px solid black", padding:"10px", display:"inline-block"}} key={comment.id}>
             <h3>{comment.name}</h3>
             <p>{comment.comment}</p>
           </div>
         ))}
-      </div> */}
+      </div>
       <form onSubmit={handleSubmit}>
         <div>
           <label>Name:</label>
           <input type="text" value={newName} onChange={handleNameChange} />
         </div>
         <div>
-          <label>Comment:</label>
-          <textarea value={newComment} onChange={handleCommentChange} />
+          <label >Comment:</label>
+          <input style={{height:"150px", width:"250px"}} value={newComment} onChange={handleCommentChange} />
         </div>
         <button type="submit">Submit</button>
       </form>

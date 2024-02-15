@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+
+### `react-card-flip` 
+
+was used to get access to someones premade card component
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -68,3 +73,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### `my app`
+
+the idea for my app came from knowing that recently the band know as Paramore (which im a huge fan of) had recently removed their site from the internet. I decided to fill that void with a mock
+version of my own. Inside you'll find my components i made for different aspects of a band/artist website.
+
+Home: plays a looped muted video snippet of "Hard Times" a song from thier 5th album "After Laughter" while the name of the band is a neon-like font; below that but still over the video is the Navbar which i emulated from their site back when they promoted the album
+
+Music: in my files i have thier entire disography i also have a json file that i fetch and use the data from their to iterate over and over again to display information on each such as: name of album, genre, label, cover and most importantly the music, each song is able to be listened to.
+
+Store: store is simple and just host a small selection of merch the band sold in the past, nothing fancy but for this instead of using a json i just made my array to map in the function, saves file space i guess
+
+Fan Discussion: in here i took a few comments from an actual comment section on Youtube (thier grammy award winning single "Aint it fun") to be exact. i put them into a json so i could later set up my post and form to add new comments or anyone for that matter
+
+About: instead of doing a typical about and use having boring p tags of on and on reading, i wanted to make it fun so i decided to take the 3 main members and thier 4 touring band mates and make them into card that you can flip when clicked to read the back and learn more about the individual
